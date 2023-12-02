@@ -36,5 +36,5 @@ The QuickSight interface now visualizes the graph, showcasing the popularity of 
 
 ### Project Completion
 
-The project is completed with the visualization of Amazon's most popular brands. The relevant code for connecting the dataset and generating the visualization in QuickSight is provided below.
+The project is completed with the visualization of Amazon's most popular brands. The relevant code for connecting the dataset and generating the visualization in QuickSight is provided.
 
