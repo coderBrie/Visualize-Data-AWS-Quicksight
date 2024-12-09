@@ -2,9 +2,20 @@
 
 ## Overview
 
-This mini project involves visualizing data using Amazon QuickSight. The dataset used is the Amazon Best Seller dataset, which includes 1000 rows of real-life sample data. The dataset consists of a CSV file and a `manifest.json` file, which is used by QuickSight to access data from an S3 bucket.
+This project demonstrates the use of Amazon QuickSight to visualize data from the Amazon Best Seller dataset, stored in an Amazon S3 bucket. The workflow is designed to align with AWS Leadership Principles: Customer Obsession, Bias for Action, Invent and Simplify, Ownership, and Think Big.
 
-## Steps
+## Project Objectives
+
+Customer Obsession: Deliver actionable insights by visualizing popular brands from the dataset.
+
+Operational Excellence: Streamline data access using S3 and QuickSight.
+
+Security: Ensure data integrity through controlled access in S3 and proper dataset configuration.
+
+Scalability: Demonstrate a workflow adaptable to larger datasets or additional AWS services.
+
+
+## Solution Workflow Steps
 
 ### 1. Setting up S3 Bucket
 
