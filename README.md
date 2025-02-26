@@ -4,8 +4,6 @@
 
 This project demonstrates the use of Amazon QuickSight to visualize data from the Amazon Best Seller dataset, stored in an Amazon S3 bucket. The workflow is designed to align with AWS Leadership Principles: Customer Obsession, Bias for Action, Invent and Simplify, Ownership, and Think Big.
 
-## Link to Project: 
-https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/e0ee720c-ca9a-44ed-bc57-bc4263e86282/views/0f1adfcc-cc64-4464-8aa7-bc8c99571644?directory_alias=bsayle1
 
 
 ## Project Objectives
